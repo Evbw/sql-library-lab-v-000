@@ -1,1 +1,1 @@
-UPDATE character.species ADD COLUMN breed TEXT;
+UPDATE character SET ;
