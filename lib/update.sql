@@ -1,1 +1,1 @@
-ALTER TABLE character.species ADD COLUMN breed TEXT;
+UPDATE character.species ADD COLUMN breed TEXT;
